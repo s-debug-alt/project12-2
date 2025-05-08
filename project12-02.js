@@ -4,8 +4,8 @@
       Project 12-02
 
       Project to convert between celsius and fahrenheit
-      Author: shaddon meyery
-      Date:   
+      Author: shaddon meyer
+      Date:   5-8-25
 
       Filename: project12-02.js
 */
